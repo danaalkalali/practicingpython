@@ -1,3 +1,5 @@
+#Making a chess game! In progress :) 
+
 import pygame
 pygame.init()
 
